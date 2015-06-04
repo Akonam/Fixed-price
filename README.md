@@ -9,9 +9,9 @@ Both the executive branch and Congress have considered increasing the use of fix
 
 In service of determining where fixed price contracts are more and less appropriate, this research provides a data-driven analysis of where fixed price contracts have resulted in negative outcomes. Using contracting data in the Federal Procurement Data System, CSIS is identifying these negative outcomes by:
 
-  * Measuring the exclusion of potential vendors or diminished industrial based capacity via the metric of single-offer           competition. This draws on an existing CSIS capacity but has not previously been applied at the contract level.
+  * Measuring the exclusion of potential vendors and/or diminished industry capacity via the metric of single-offer           competition. This draws on an existing CSIS capacity but has not previously been applied at the contract level.
 
-  * Measuring contract failure using the metric of contract termination. This variable represents a new capability because it      requires drawing on a single contract’s data across multiple years when appropriate.
+  * Measuring contract failure using the metric of contract termination. This variable represents a new capability because it      requires interrogating a single contract’s data across multiple years when appropriate.
 
   * Measuring requirement stability using the metric of costly change orders. This is the most demanding new capability and      it requires not just the multiple year analysis for measuring contract termination, but also demands differentiating         between different sorts of contract modifications, many of which do not constitute requirements volatility.
 
